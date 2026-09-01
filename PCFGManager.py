@@ -171,7 +171,7 @@ def adoption(child_pt: list, base_prob: float,
         if pos == parent_pos:
             continue
 
-        # если индекс уже 0 — предыдущего родителя по этой позиции нет
+        # there is no previous parent for this position
         if item[1] == 0:
             continue
 
