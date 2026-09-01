@@ -12,11 +12,11 @@ The experimental evaluation of the algorithm was carried out using the Password 
 - etalon — 669643 passwords; 
 - limit — 10000000 itr.
 
-![PWLDS](Images/PWLDS.png)
+![PWLDS](Images/pwlds.png)
 - etalon — 2252318 passwords; 
 - limit — 10000000 itr.
 
-![RockYou](Images/RockYou.png)
+![RockYou](Images/rockyou.png)
 - etalon — 24252 passwords; 
 - limit — 10000000 itr.
 
