@@ -175,7 +175,6 @@ def adoption(child_pt: list, base_prob: float,
         if item[1] == 0:
             continue
 
-        # if the index is already 0 — there is no previous parent for this position
         new_parent_pt = copy.copy(child_pt)
         new_parent_pt[pos] = (new_parent_pt[pos][0], new_parent_pt[pos][1] - 1)
 
